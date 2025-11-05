@@ -1,7 +1,9 @@
 # foundry-cheatsheet
 
 ## :beginner: Introduction
-A lightweight starter repository for learning and experimenting with Foundry, a blazing-fast, portable, and modular toolkit for Ethereum development. This project includes setup guides, example contracts, and test scripts to help you quickly build and test smart contracts using Forge and Cast. This repository is still under development — updates and improvements are ongoing.
+A lightweight starter repository for learning and experimenting with Foundry, a blazing-fast, portable, and modular toolkit for Ethereum development. This project includes setup guides, example contracts, and test scripts to help you quickly build and test smart contracts using Forge and Cast. 
+
+This repository is still under development — updates and improvements are ongoing. (links below are temporary)
 
 ## :blue_book: Getting Started
 
