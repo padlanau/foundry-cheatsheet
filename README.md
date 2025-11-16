@@ -569,104 +569,54 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 
 </details>
 
-
-
 ## :book: References
-
-### Books
-
-- [Evans, Eric (2003), Domain-Driven Design: Tackling Complexity in the Heart of Software.](https://www.amazon.com/dp-0321125215/dp/0321125215/ref=mt_other?_encoding=UTF8&me=&qid=1641385448)
-- [Hohpe, Gregor (2003), Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.enterpriseintegrationpatterns.com/)
-- [Young, Greg (2012), Event Centric: Finding Simplicity in Complex Systems.](https://www.amazon.com/Event-Centric-Simplicity-Addison-Wesley-Signature/dp/0321768221)
-- [Vernon, Vaughn (2016), Domain-Driven Design Distilled.](https://www.amazon.com/dp-0134434420/dp/0134434420/ref=mt_other?_encoding=UTF8&me=&qid=1641385096)
-- [Richardson, Chris (2018), Microservices Patterns: With examples in Java.](https://www.amazon.com/-/pt/dp-B09782192F/dp/B09782192F/ref=mt_other?_encoding=UTF8&me=&qid=1641385683)
-
-### Articles
-
-- [Effective Aggregate Design Part I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
-- [Effective Aggregate Design Part II: Making Aggregates Work Together](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf)
-- [Effective Aggregate Design Part III: Gaining Insight Through Discovery](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_3.pdf)
-- [CQRS Documents - Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf)
-- [Versioning in an Event Sourced - Greg Young](https://leanpub.com/esversioning/read)
-- [Clarified CQRS - Udi Dahan](https://udidahan.com/wp-content/uploads/Clarified_CQRS.pdf)
-
-### Blogs
-
-- [Event-driven IO - Oskar Dudycz](https://event-driven.io/)
-- [Code Opinion - Derek Comartin](https://codeopinion.com/)
-- [Domain Centric - Kacper Gunia](https://domaincentric.net/)
-- [CQRS Event Sourcing - Daniel Whittaker](https://danielwhittaker.me/)
-- [Event Store - Alexey Zimarev](https://www.eventstore.com/blog)
-- [Mathias Verraes Student of Systems](https://verraes.net/)
-
-### Posts
-
-- [Modeling Uncertainty with Reactive DDD - Vaughn Vernon](https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd/)
-- [Reactive DDD—When Concurrent Waxes Fluent - Vaughn Vernon](https://www.infoq.com/presentations/reactive-ddd/)
-- [Pattern: Event sourcing - Chris Richardson](https://microservices.io/patterns/data/event-sourcing.html)
-- [Clarified CQRS - Udi Dahan](https://udidahan.com/2009/12/09/clarified-cqrs/)
-- [Udi & Greg Reach CQRS Agreement](https://udidahan.com/2012/02/10/udi-greg-reach-cqrs-agreement/)
-- [Event Sourcing and CQRS - Alexey Zimarev](https://www.eventstore.com/blog/event-sourcing-and-cqrs)
-- [What is Event Sourcing? - Alexey Zimarev](https://www.eventstore.com/blog/what-is-event-sourcing)
-- [Transcript of Greg Young's Talk at Code on the Beach 2014: CQRS and Event Sourcing](https://www.eventstore.com/blog/transcript-of-greg-youngs-talk-at-code-on-the-beach-2014-cqrs-and-event-sourcing)
-- [Introduction to CQRS - Kanasz Robert](https://www.codeproject.com/Articles/555855/Introduction-to-CQRS)
-- [Distilling the CQRS/ES Capability - Vijay Nair](https://axoniq.io/blog-overview/distilling-the-cqrses-capability)
-- [Dispelling the Eventual Consistency FUD when using Event Sourcing - Vijay Nair](https://axoniq.io/blog-overview/dispelling-the-eventual-consistency-fud-when-using-event-sourcing)
-- [Why would I need a specialized Event Store? - Greg Woods](https://axoniq.io/blog-overview/eventstore)
-- [A Fast and Lightweight Solution for CQRS and Event Sourcing - Daniel Miller](https://www.codeproject.com/Articles/5264244/A-Fast-and-Lightweight-Solution-for-CQRS-and-Event)
-- [Event Sourcing: The Good, The Bad and The Ugly - Dennis Doomen](https://www.continuousimprover.com/2017/11/event-sourcing-good-bad-and-ugly.html)
-- [What they don’t tell you about event sourcing - Hugo Rocha](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
-- [Event Sourcing pattern - MSDN](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-- [CQRS + Event Sourcing, Step by Step - Daniel](https://danielwhittaker.me/2020/02/20/cqrs-step-step-guide-flow-typical-application/)
-- [Architectural considerations for event-driven microservices-based systems - Tanmay Ambre](https://developer.ibm.com/articles/eda-and-microservices-architecture-best-practices/)
-- [How messaging simplifies and strengthens your microservice application - Callum Jackson](https://developer.ibm.com/articles/how-messaging-simplifies-strengthens-microservice-applications/)
-- [Event Sourcing: Aggregates Vs Projections - Kacper Gunia](https://domaincentric.net/blog/event-sourcing-aggregates-vs-projections)
-- [Event Sourcing: Projections - Kacper Gunia](https://domaincentric.net/blog/event-sourcing-projections)
-- [Advantages of the event-driven architecture pattern - Grace Jansen & Johanna Saladas](https://developer.ibm.com/articles/advantages-of-an-event-driven-architecture/)
-- [CQRS - Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 
 ### Projects
 
 - [Simple CQRS example - Greg Young](https://github.com/gregoryyoung/m-r)
 - [EventSourcing.NetCore - Oskar Dudycz](https://github.com/oskardudycz/EventSourcing.NetCore)
 
+### Training 
+
+- [Cyfrin Updraft](https://updraft.cyfrin.io/)
+- [Hohpe, Gregor (2003), Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.enterpriseintegrationpatterns.com/)
+
+
+### Articles
+
+- [Effective Aggregate Design Part I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
+- [Effective Aggregate Design Part II: Making Aggregates Work Together](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf)
+
+
+### Blogs
+
+- [Event-driven IO - Oskar Dudycz](https://event-driven.io/)
+- [Code Opinion - Derek Comartin](https://codeopinion.com/)
+
+
+### Posts
+
+- [Modeling Uncertainty with Reactive DDD - Vaughn Vernon](https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd/)
+- [Reactive DDD—When Concurrent Waxes Fluent - Vaughn Vernon](https://www.infoq.com/presentations/reactive-ddd/)
+- [Pattern: Event sourcing - Chris Richardson](https://microservices.io/patterns/data/event-sourcing.html)
+
+
+
+
 ## :toolbox: Tech Stack
 
 ### ChainIDs
-- [chainlist](https://chainlist.org/) - ChainList is a list of EVM networks
-- [EF Core 8](https://devblogs.microsoft.com/dotnet/announcing-ef7/) - An open source object–relational mapping framework for ADO.NET;
-
+- [Chainlist](https://chainlist.org/) - ChainList is a list of EVM networks
   
-### Worker Services
+### Oracle
 
-- [.NET 8](https://dotnet.microsoft.com/en-us/) - A free, multi/cross-platform and open-source framework;
-- [EF Core 8](https://devblogs.microsoft.com/dotnet/announcing-ef7/) - An open source object–relational mapping framework for ADO.NET;
-- [MSSQL](https://hub.docker.com/_/microsoft-mssql-server) - A relational database management system (Event Store Database);
-- [MongoDB](https://www.mongodb.com/docs/drivers/csharp/) - A source-available cross-platform document-oriented database (Projections Database);
-- [MassTransit](https://masstransit-project.com/) - Message Bus;
-- [FluentValidation](https://fluentvalidation.net/) - A popular .NET library for building strongly-typed validation rules;
-- [Serilog](https://serilog.net/) - A diagnostic logging to files, console and elsewhere.
+- [Chainlink](https://dev.chain.link/) - A free, cross-platform and open-source web-development framework;
+ 
 
-### Web API
+### API
 
-- [ASP.NET Core 8](https://devblogs.microsoft.com/dotnet/asp-net-core-updates-in-net-7-preview-1/) - A free, cross-platform and open-source web-development framework;
-- [MassTransit](https://masstransit-project.com/) - Message Bus;
-- [FluentValidation](https://fluentvalidation.net/) - A popular .NET library for building strongly-typed validation rules;
-- [Serilog](https://serilog.net/) - A diagnostic logging to files, console and elsewhere.
+- [OpenZeppelin](https://www.openzeppelin.com/) - Its bedrock open source Contract Libraries are a public good and industry standard for smart contract development
 
-### Web APP
-
-- [Blazor WASM](https://docs.microsoft.com/en-us/aspnet/core/blazor/?WT.mc_id=dotnet-35129-website&view=aspnetcore-6.0#blazor-webassembly) - Is a single-page app (SPA) framework for building
-  interactive client-side web apps with .NET;
-- [BlazorStrap](https://blazorstrap.io/V5/) - Bootstrap 5 Components for Blazor Framework;
-
-## Contributing
-
-All contributions are welcome. Please take a look at [contributing](./CONTRIBUTING.md) guide.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/AntonioFalcao/EventualShop/tags).
 
 ## Authors
 
@@ -678,38 +628,16 @@ This project is licensed under the **MIT license**. Feel free to edit and distri
 
 See [LICENSE](LICENSE) for more information.
 
-## Acknowledgements
+## Courses Code References
 
 Thanks for these awesome resources that were used during the development of the **Amazing GitHub template**:
 
 - <https://github.com/cookiecutter/cookiecutter>
 - <https://github.github.com/gfm/>
 - <https://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
-- <https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project>
-- <https://thoughtbot.com/blog/how-to-write-a-great-readme>
-- <https://www.makeareadme.com>
-- <https://github.com/noffle/art-of-readme>
-- <https://github.com/noffle/common-readme>
-- <https://github.com/RichardLitt/standard-readme>
-- <https://github.com/matiassingers/awesome-readme>
-- <https://github.com/LappleApple/feedmereadmes>
-- <https://github.com/othneildrew/Best-README-Template>
-- <https://github.com/mhucka/readmine>
-- <https://github.com/badges/shields>
-- <https://github.com/cjolowicz/cookiecutter-hypermodern-python>
-- <https://github.com/stevemao/github-issue-templates>
-- <https://github.com/devspace/awesome-github-templates>
 
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
+ 
 ## Contributors
 
  
-
-## License
-
-A large part of this project is licensed under the xxx 
+ 
