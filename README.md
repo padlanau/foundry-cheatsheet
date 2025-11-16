@@ -632,6 +632,11 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 
 ## :toolbox: Tech Stack
 
+### ChainIDs
+- [chainlist](https://chainlist.org/) - ChainList is a list of EVM networks
+- [EF Core 8](https://devblogs.microsoft.com/dotnet/announcing-ef7/) - An open source object–relational mapping framework for ADO.NET;
+
+  
 ### Worker Services
 
 - [.NET 8](https://dotnet.microsoft.com/en-us/) - A free, multi/cross-platform and open-source framework;
