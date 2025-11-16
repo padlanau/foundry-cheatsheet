@@ -579,7 +579,7 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 ### Training 
 
 - [Cyfrin Updraft](https://updraft.cyfrin.io/)
-- [Hohpe, Gregor (2003), Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.enterpriseintegrationpatterns.com/)
+- [Ethereum development documentation](https://ethereum.org/developers/docs/)
 
 
 ### Articles
