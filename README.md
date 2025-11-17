@@ -604,18 +604,22 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 
 
 ## :toolbox: Tech Stack
+### API
+- [OpenZeppelin](https://www.openzeppelin.com/) - Its bedrock open source Contract Libraries are a public good and industry standard for smart contract development
 
 ### ChainIDs
 - [Chainlist](https://chainlist.org/) - ChainList is a list of EVM networks
+  - [hello]
   
 ### Oracle
-
 - [Chainlink](https://dev.chain.link/) - A free, cross-platform and open-source web-development framework;
- 
 
-### API
+### Transactions
+- [Etherscan](https://etherscan.io/)
+  - [Ethereum Gas Tracker](https://etherscan.io/gastracker)
+  - [Ethereum Unit Converter](https://www.alchemy.com/gwei-calculator)         
+- [Metamask](https://metamask.io/)  
 
-- [OpenZeppelin](https://www.openzeppelin.com/) - Its bedrock open source Contract Libraries are a public good and industry standard for smart contract development
 
 
 ## Authors
