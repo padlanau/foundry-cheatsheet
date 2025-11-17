@@ -618,10 +618,10 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 - [Etherscan](https://etherscan.io/)
   - [Ethereum Gas Tracker](https://etherscan.io/gastracker)
   - [Ethereum Unit Converter](https://www.alchemy.com/gwei-calculator)         
-- [Metamask](https://metamask.io/)  
-
-
-
+- [Metamask](https://metamask.io/)
+  - [Sepolia TestNet](https://etherscan.io/gastracker)
+  - [Tenderly Virtual Signup](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)     
+ 
 ## Authors
 
 > See the list of [contributors](https://github.com/AntonioFalcao/EventualShop/graphs/contributors) who participated in this project.
@@ -634,9 +634,9 @@ See [LICENSE](LICENSE) for more information.
 
 ## Courses Code References
 
-Thanks for these awesome resources that were used during the development of the **Amazing GitHub template**:
+Thanks for these awesome resources that were used during this training: 
 
-- <https://github.com/cookiecutter/cookiecutter>
+- <https://github.com/Cyfrin/blockchain-basics-cu>
 - <https://github.github.com/gfm/>
 - <https://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
 
