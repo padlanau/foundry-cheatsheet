@@ -613,10 +613,6 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 - [Metamask](https://metamask.io/)
   - [Sepolia TestNet](https://etherscan.io/gastracker)
   - [Tenderly Virtual Signup](https://tenderly.co/?mtm_campaign=partner&mtm_kwd=cyfrin)     
- 
-## Authors
-
-> See the list of [contributors](https://github.com/contributorsxxx) who participated in this project.
 
 ## License
 
@@ -629,11 +625,7 @@ See [LICENSE](LICENSE) for more information.
 Thanks for these awesome resources that were used during this training: 
 
 - <https://github.com/Cyfrin/blockchain-basics-cu>
-- <https://github.github.com/gfm/>
-- <https://tom.preston-werner.com/2010/08/23/readme-driven-development.html>
-
+- 
  
-## Contributors
-
  
  
