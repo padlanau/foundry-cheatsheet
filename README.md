@@ -573,8 +573,7 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 
 ### Projects
 
-- [Simple CQRS example - Greg Young](https://github.com/gregoryyoung/m-r)
-- [EventSourcing.NetCore - Oskar Dudycz](https://github.com/oskardudycz/EventSourcing.NetCore)
+- [xxx](https://github.com/xxxx)
 
 ### Training 
 
@@ -584,23 +583,16 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 
 ### Articles
 
-- [Effective Aggregate Design Part I: Modeling a Single Aggregate](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf)
-- [Effective Aggregate Design Part II: Making Aggregates Work Together](https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf)
-
+- [xxx](https://www.xxx.org/)
+-  
 
 ### Blogs
 
-- [Event-driven IO - Oskar Dudycz](https://event-driven.io/)
-- [Code Opinion - Derek Comartin](https://codeopinion.com/)
-
+- [xxx](https://blogsxxx/) 
 
 ### Posts
 
-- [Modeling Uncertainty with Reactive DDD - Vaughn Vernon](https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd/)
-- [Reactive DDD—When Concurrent Waxes Fluent - Vaughn Vernon](https://www.infoq.com/presentations/reactive-ddd/)
-- [Pattern: Event sourcing - Chris Richardson](https://microservices.io/patterns/data/event-sourcing.html)
-
-
+- [XXX](https://www.xxxxx.com/articles/) 
 
 
 ## :toolbox: Tech Stack
@@ -624,7 +616,7 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
  
 ## Authors
 
-> See the list of [contributors](https://github.com/AntonioFalcao/EventualShop/graphs/contributors) who participated in this project.
+> See the list of [contributors](https://github.com/contributorsxxx) who participated in this project.
 
 ## License
 
