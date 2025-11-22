@@ -583,7 +583,9 @@ docker run --network=internal --name k6 --rm -i grafana/k6 run - <test.js
 
 ### Articles
 
-- [What is a Blockchain Replay Attack](https://www.cyfrin.io/blog/replay-attack-in-ethereum)-  
+- [What is a Blockchain Replay Attack](https://www.cyfrin.io/blog/replay-attack-in-ethereum)
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/)
+ 
 
 ### Blogs
 
